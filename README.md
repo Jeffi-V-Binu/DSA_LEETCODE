@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
