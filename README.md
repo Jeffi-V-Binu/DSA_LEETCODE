@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
