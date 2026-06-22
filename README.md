@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0775-global-and-local-inversions) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
