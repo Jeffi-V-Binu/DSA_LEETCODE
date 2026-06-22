@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
