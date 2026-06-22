@@ -9,8 +9,8 @@ public:
         int n = s.size();
         long long m = 0;
         for(int i = 0 ; i < n ; ++i){
-            if(islower(s[i])){
-                ++m;
+            if(s[i] == '%'){
+                continue;
             }
             else if(s[i] == '*' ){
                 if(m > 0 ) --m;
@@ -18,12 +18,14 @@ public:
             else if(s[i] == '#'){
                 m*=2;
             }
+            else{
+                ++m;
+            }
         }
         if(m <= k) return '.';
         for(int i = n - 1 ; i >= 0; --i){
-            if(islower(s[i])){
-                --m;
-                if(m == k) return s[i];
+            if(s[i] == '%'){
+                k = (m - 1) - k;
             }
             else if(s[i] == '*'){
                 ++m;
@@ -33,7 +35,8 @@ public:
                 k %= m;
             }
             else{
-                k = (m - 1) - k;
+                --m;
+                if(m == k) return s[i];
             }
         }
         return '.';
