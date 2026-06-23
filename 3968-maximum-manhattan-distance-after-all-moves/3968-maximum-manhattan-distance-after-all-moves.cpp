@@ -14,7 +14,6 @@ public:
             else if(a == 'L') ++lc;
             else ++wc;
         }
-        int maxdis = abs(uc - dc) + abs(lc - rc) + wc;
-        return maxdis;
+        return abs(uc - dc) + abs(lc - rc) + wc;
     }
 };
