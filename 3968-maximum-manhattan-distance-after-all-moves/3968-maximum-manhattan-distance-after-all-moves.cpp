@@ -2,11 +2,7 @@ class Solution {
 public:
     int maxDistance(string moves) {
         int n = moves.size();   
-        int lc = 0;
-        int rc = 0;
-        int uc = 0;
-        int dc = 0;
-        int wc = 0;
+        int lc = 0 ,rc = 0, uc = 0 , dc = 0 , wc = 0;
         for(const char a : moves){
             if(a == 'U') ++uc;
             else if(a == 'D') ++dc;
