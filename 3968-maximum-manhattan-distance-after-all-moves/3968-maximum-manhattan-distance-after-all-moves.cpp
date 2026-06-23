@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int maxDistance(string moves) {
-        int n = moves.size();   
+    int maxDistance(string moves) {  
         int lc = 0 ,rc = 0, uc = 0 , dc = 0 , wc = 0;
         for(const char a : moves){
             if(a == 'U') ++uc;
