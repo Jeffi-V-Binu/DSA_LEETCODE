@@ -7,7 +7,7 @@ public:
         int uc = 0;
         int dc = 0;
         int wc = 0;
-        for(const char& a : moves){
+        for(const char a : moves){
             if(a == 'U') ++uc;
             else if(a == 'D') ++dc;
             else if(a == 'R') ++rc;
