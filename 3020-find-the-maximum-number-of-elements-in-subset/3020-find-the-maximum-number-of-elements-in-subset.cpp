@@ -17,18 +17,17 @@ public:
             maxlen = max(maxlen , length);
             length = 0;
         }
-        for(int i = 0 ; i < n ; ++i){
-            track = nums[i];
-            if(track > 1){
-                while(frequency.find(track) != frequency.end() && frequency[track] >= 2 && track < INT_MAX){
+        for(const auto& [base , count] : frequency){
+            track = base;
+            if(track == 1) continue;
+            while(frequency.find(track) != frequency.end() && frequency[track] >= 2 && track < 1000000000){
                     track *= track;
                     length += 2;
                 }
-                if(frequency.find(track) != frequency.end() && frequency[track] == 1) ++length;
-                else --length;
-                maxlen = max(maxlen , length);
-                length = 0;
-            }
+            if(frequency.find(track) != frequency.end() && frequency[track] == 1) ++length;
+            else --length;
+            maxlen = max(maxlen , length);
+            length = 0;
         }
         return maxlen;
     }
