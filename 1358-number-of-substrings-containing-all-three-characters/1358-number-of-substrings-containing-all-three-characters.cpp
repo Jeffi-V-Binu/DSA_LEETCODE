@@ -8,9 +8,8 @@ public:
         int j = 0;
         while(j < n){
             pos[s[j] - 'a'] = j;
-            int minind = min({pos[0] , pos[1] , pos[2]});
-            if(minind >= 0){
-                result += (minind + 1);
+            if(pos[0] >= 0 && pos[1] >= 0 && pos[2] >= 0){
+                result += (min({pos[0] , pos[1] , pos[2]}) + 1);
             }
             ++j;
         }
