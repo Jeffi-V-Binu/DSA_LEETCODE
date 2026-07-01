@@ -1,12 +1,8 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int minw = -10000;
-        int maxw = 0;
-        for(const int i : weights){
-            minw = max(minw , i);
-            maxw += i;
-        }
+        int minw = *max_element(weights.begin(), weights.end());
+        int maxw = accumulate(weights.begin() , weights.end(), 0);
         int mid;
         while(minw < maxw){
             mid = minw + (maxw - minw) / 2;
