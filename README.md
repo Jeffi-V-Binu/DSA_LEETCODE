@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0775-global-and-local-inversions](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0775-global-and-local-inversions) |
 | [0875-koko-eating-bananas](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
