@@ -7,8 +7,8 @@ public:
         while(i <= maxi && i < n){
             if(nums[i]) maxi = max(maxi , i + nums[i]);
             ++i;
+            if(maxi >= n-1) return true;
         }
-        if (maxi >= (n - 1)) return true;
         return false;
     }
 };
