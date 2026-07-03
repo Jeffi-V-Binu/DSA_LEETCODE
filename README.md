@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
