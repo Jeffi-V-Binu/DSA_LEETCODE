@@ -8,11 +8,11 @@ class Solution:
                 a.append(i)
         a.sort()
         j = 0
-        for i in range(len(s)):
-            if s[i] in v:
+        for i in s:
+            if i in v:
                 b += a[j]
                 j += 1
             else:
-                b += s[i]
+                b += i
         return b
         
