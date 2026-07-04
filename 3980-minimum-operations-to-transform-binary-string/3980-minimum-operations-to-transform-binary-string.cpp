@@ -7,9 +7,10 @@ public:
         for(int i = 0 ; i < n  ; ++i){
             if(s1[i] != s2[i]){
                 if(s1[i] == '0'){
-                    ++count;}
-                else{
-                    if(i < n - 1 && s2[i + 1] == '0'){
+                    ++count;
+                    continue;
+                    }
+                if(i < n - 1 && s2[i + 1] == '0'){
                         if(s1[i + 1] == '1'){
                             --count;
                         }
@@ -17,7 +18,8 @@ public:
                         ++i;
                     }
                     else{
-                        count += 2;}}}}
+                        count += 2;}
+                }}
         return count;
     }
 };
