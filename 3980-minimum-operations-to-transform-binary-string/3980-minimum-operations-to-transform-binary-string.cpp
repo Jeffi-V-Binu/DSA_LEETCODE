@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minOperations(string s1, string s2) {
+    int minOperations(string& s1, string& s2) {
         int count = 0;
         int n = s1.size();
         if(n == 1 && s1[0] == '1' && s2[0] == '0') return -1;
