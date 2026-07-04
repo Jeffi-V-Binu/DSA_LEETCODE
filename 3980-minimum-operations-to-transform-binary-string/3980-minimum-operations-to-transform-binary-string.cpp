@@ -11,14 +11,12 @@ public:
                     continue;
                     }
                 if(i < n - 1 && s2[i + 1] == '0'){
-                        if(s1[i + 1] == '1'){
-                            --count;
-                        }
+                        if(s1[i + 1] == '1') --count;
                         count +=2;
                         ++i;
+                        continue;
                     }
-                    else{
-                        count += 2;}
+                    count += 2;
                 }}
         return count;
     }
