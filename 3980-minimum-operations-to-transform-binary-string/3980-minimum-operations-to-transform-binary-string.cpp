@@ -3,7 +3,11 @@ public:
     int minOperations(string& s1, string& s2) {
         int count = 0;
         int n = s1.size();
-        if(n == 1 && s1[0] == '1' && s2[0] == '0') return -1;
+        if(n == 1){
+            if(s1[0] == '1' && s2[0] == '0') return -1;
+            else if(s1[0] == s2[0]) return 0;
+            else return 1;
+        }
         for(int i = 0 ; i < n  ; ++i){
             if(s1[i] != s2[i]){
                 if(s1[i] == '0'){
