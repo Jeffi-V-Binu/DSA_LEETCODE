@@ -4,11 +4,9 @@ public:
         int n = nums.size();
         int maxi = 0;
         int maxs = 0;
-        int i = 0;
         for(int j = k ; j < n ; ++j){
-            maxi = max(maxi , nums[i]);
+            maxi = max(maxi , nums[j - k]);
             maxs = max(maxs , maxi + nums[j]);
-            ++i;
         }
         return maxs;
     }
