@@ -13,10 +13,10 @@ public:
                 --top;
                 st.pop_back();
             }
-            while(top != -1 && heights[st[top]] == heights[i]){
+            if(top != -1 && heights[st[top]] == heights[i]){
                 --top;
                 st.pop_back();
-            }
+            };
             ++top;
             st.push_back(i);
         }
