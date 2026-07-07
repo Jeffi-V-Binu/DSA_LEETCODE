@@ -9,7 +9,8 @@ public:
             vector<int> st;
             int top = -1;
             for(int j = 0 ; j < m ; ++j){
-                bars[j] = matrix[i][j] == '1' ? bars[j] + 1 : 0;
+                if(matrix[i][j] == '1') ++bars[j];
+                else bars[j] = 0;
             }
             for(int j = 0 ; j <= m ; ++j){
                 int a = j == m ? 0 : bars[j]; 
