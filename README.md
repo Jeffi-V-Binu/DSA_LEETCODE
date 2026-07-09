@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-beautiful-towers-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2866-beautiful-towers-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
@@ -270,11 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
