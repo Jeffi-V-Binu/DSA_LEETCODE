@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         vector<int> st;
+        st.reserve(asteroids.size());
         int top = -1;
         for(const int& i : asteroids){
             if(i > 0 ){
