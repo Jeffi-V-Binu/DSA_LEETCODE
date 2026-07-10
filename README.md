@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [2865-beautiful-towers-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2866-beautiful-towers-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
