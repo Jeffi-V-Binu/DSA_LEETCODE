@@ -3,7 +3,7 @@ public:
     int minAddToMakeValid(string s) {
         int l = 0;
         int r = 0;
-        for(const char a: s){
+        for(char a: s){
             if(a == '(') ++l;
             else {
                 if(l == 0) r++;
