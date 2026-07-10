@@ -14,7 +14,7 @@ public:
                 ++j;
                 ++count;
             }
-            else if(g[i] > s[j]) ++j;
+            else ++j;
         }
         return count;
     }
