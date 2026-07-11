@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
