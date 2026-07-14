@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
