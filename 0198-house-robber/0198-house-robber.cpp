@@ -6,11 +6,10 @@ public:
         else if(n == 2) return max(nums[1] , nums[0]);
         int odd = nums[0];
         int even = max(nums[1] , nums[0]);
-        for(int i = 2 ; i < n ; ++i){
+        for(char i = 2 ; i < n ; ++i){
             int l = even;
-            int r = nums[i] + odd;
-            odd = even;
-            even = max(l , r);
+            even = max(even , (nums[i] + odd));
+            odd = l;
         }
         return even;
     }
