@@ -3,28 +3,22 @@ public:
     int maxActiveSectionsAfterTrade(string s) {
         int count = 0;
         char curr;
-        int total = 0;
-        int delta = 0;
+        int fzero = 0;
+        int szero = 0;
         int result = 0;
         int ptr = 0;
         int n = s.size();
         while(ptr != n){
+            int newp = ptr;
             curr = s[ptr];
-            total = 0;
-            while(ptr != n && s[ptr] == curr){
-                total += 1;
-                ++ptr;
-            }
-            if(curr == '1'){
-                count += total;
-            }
+            while(newp < n && curr == s[newp]) ++newp;
+            if(curr == '1') count += (newp - ptr);
             else{
-                delta += total;
-                if(delta > total){
-                    result = max(result , delta);
-                    delta = total;
-                }
+                szero = newp - ptr;
+                if(fzero > 0)result = max(result , szero + fzero);
+                fzero = szero;
             }
+            ptr = newp;
         }
         return count + result;
     }
