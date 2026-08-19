@@ -9,13 +9,12 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(head == NULL) return false;
-        while(head -> next != NULL){
-            if(head -> val == 1000000) return true;
-            else {
-                head -> val = 1000000;
-                head = head -> next;
-            }
+        ListNode* l = head;
+        ListNode* f = head;
+        while(f != NULL && f -> next != NULL){
+            l = l -> next;
+            f = f -> next -> next;
+            if(f == l)return true;
         }
         return false;
     }
