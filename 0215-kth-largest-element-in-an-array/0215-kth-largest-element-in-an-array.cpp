@@ -1,14 +1,36 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        make_heap(nums.begin(), nums.end());
-        int res;
-        for(int i = 1 ; i < k; ++i){
-            pop_heap(nums.begin(), nums.end());
-            nums.pop_back();
+        int n = nums.size();
+        int low = 0;
+        int high = n - 1;
+        int target = n - k;
+
+        while(low <= high){
+            int randind = rand()%(high - low + 1) + low;
+            int pivot = nums[randind];
+
+            int i = low;
+            int j = high;
+
+            while(i <= j){
+                while(i <= j && nums[i] < pivot) ++i;
+                while(i <= j && nums[j] > pivot) --j;
+
+                if(i<= j){
+                    swap(nums[i], nums[j]);
+                    ++i;
+                    --j;
+                }
+            }
+            if(i <= target){
+                low = i;
+            }
+            else if(j >= target){
+                high = j;
+            }
+            else return nums[target];
         }
-        pop_heap(nums.begin(), nums.end());
-        res = nums.back();
-        return res;
+        return nums[target];
     }
 };
