@@ -22,11 +22,8 @@ public:
             }
             --j;
         }
-        if(lq == 0 && rq == 0){
-            if(rs == ls) return false;
-        }
-        if(rs == ls){
-            if(rq == lq) return false;
+        if(rs == ls && rq == lq){
+            return false;
         }
         else{
             if((ls > rs && lq >= rq) || (rs > ls && rq >= lq)) return true;
