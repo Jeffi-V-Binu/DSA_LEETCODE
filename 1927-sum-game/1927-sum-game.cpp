@@ -2,38 +2,24 @@ class Solution {
 public:
     bool sumGame(string num) {
         int n = num.size() - 1;
-        int ls = 0;
-        int rs = 0;
-        int lq = 0;
-        int rq = 0;
+        int Sumd = 0;
+        int qd = 0;
         int j = n;
         int i = 0;
         while(i < j){
-            if(num[i] == '?') ++lq;
+            if(num[i] == '?') ++qd;
             else{
-                int temp = num[i] - '0';
-                ls += temp;
+                Sumd += num[i] - '0';
             }
             ++i;
-            if(num[j] == '?') ++rq;
+            if(num[j] == '?') --qd;
             else{
-                int temp = num[j] - '0';
-                rs += temp;
+                Sumd -= num[j] - '0';
             }
             --j;
         }
-        if(rs == ls && rq == lq){
+        if(Sumd == qd * -4.5){
             return false;
-        }
-        else{
-            if((ls > rs && lq >= rq) || (rs > ls && rq >= lq)) return true;
-            else{
-                int sumd = abs(rs - ls);
-                int qd = abs(lq - rq);
-                int bm = qd / 2;
-                int am = (qd+1) / 2;
-                if(sumd == (bm * 9) && bm == am) return false;
-            }
         }
         return true;
     }
