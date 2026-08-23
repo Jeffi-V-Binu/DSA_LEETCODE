@@ -24,11 +24,9 @@ public:
         }
         if(lq == 0 && rq == 0){
             if(rs == ls) return false;
-            else return true;
         }
         if(rs == ls){
             if(rq == lq) return false;
-            else return true;
         }
         else{
             if((ls > rs && lq >= rq) || (rs > ls && rq >= lq)) return true;
@@ -38,7 +36,6 @@ public:
                 int bm = qd / 2;
                 int am = (qd+1) / 2;
                 if(sumd == (bm * 9) && bm == am) return false;
-                else return true;
             }
         }
         return true;
