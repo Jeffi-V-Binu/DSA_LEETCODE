@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0775-global-and-local-inversions) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
