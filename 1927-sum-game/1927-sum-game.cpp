@@ -18,9 +18,6 @@ public:
             }
             --j;
         }
-        if(Sumd == qd * -4.5){
-            return false;
-        }
-        return true;
+        return Sumd != -1 * 4.5 * qd;
     }
 };
