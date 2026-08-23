@@ -4,8 +4,6 @@ public:
         int n = num.size() - 1;
         int Sumd = 0;
         int qd = 0;
-        int j = n;
-        int i = 0;
         for(int i = 0 ; i <= n /2; ++i){
             if(num[i] == '?') ++qd;
             else{
