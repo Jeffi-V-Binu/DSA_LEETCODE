@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -434,11 +436,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
