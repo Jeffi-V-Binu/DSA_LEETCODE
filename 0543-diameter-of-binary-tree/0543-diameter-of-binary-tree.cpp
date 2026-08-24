@@ -12,12 +12,12 @@
 class Solution {
 public:
     int dia = 0;
-    int heigh(TreeNode* root){
+    short heigh(TreeNode* root){
         if(!root){
             return 0;
         }
-        int l = heigh(root -> left);
-        int r = heigh(root -> right);
+        short l = heigh(root -> left);
+        short r = heigh(root -> right);
         dia = max(dia , (l+r));
         return 1 + max(l , r);
     }
