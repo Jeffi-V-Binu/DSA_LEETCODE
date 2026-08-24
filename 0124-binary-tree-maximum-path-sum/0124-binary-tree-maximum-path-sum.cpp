@@ -12,12 +12,12 @@
 class Solution {
 public:
     int psum = INT_MIN;
-    short pathfinder(TreeNode* root){
-        if(!root) return INT_MIN;
-        short l = pathfinder(root -> left);
-        short r = pathfinder(root -> right);
-        psum = max(psum ,max(root->val , max(root->val + l , max(root->val +r , root->val +r +l))));
-        return max(root -> val , (root-> val + max(l , r)));
+    int pathfinder(TreeNode* root){
+        if(!root) return 0;
+        int l = max(0, pathfinder(root -> left));
+        int r = max(0, pathfinder(root -> right));
+        psum = max(psum ,root->val +r +l);
+        return root-> val + max(l , r);
     }
     int maxPathSum(TreeNode* root) {
         pathfinder(root);
