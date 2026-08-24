@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0775-global-and-local-inversions](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0775-global-and-local-inversions) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 ## Rolling Hash
 |  |
