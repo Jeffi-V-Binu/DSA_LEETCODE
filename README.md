@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Greedy
@@ -427,4 +428,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
