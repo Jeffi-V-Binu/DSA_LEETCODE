@@ -1,16 +1,16 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        vector<bool> mult(101 , false);
-        for(int& i:nums){
-            if(i  % k == 0){
-                mult[(i / k) - 1] = true;
+        bitset<102> mult;
+        for(int i:nums){
+            if(i % k == 0){
+                mult[i / k] = true;
             }
         }
-        int i;
-        for(i = 0 ; i < 100 ; i++){
-        if(!mult[i]) break; 
+        int i = 1;
+        while(mult[i]){
+            ++i;
         }
-        return k*(i + 1);
+        return k*i;
     }
 };
