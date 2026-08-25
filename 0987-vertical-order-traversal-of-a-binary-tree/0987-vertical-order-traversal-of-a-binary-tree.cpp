@@ -21,6 +21,7 @@ private:
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> unsorted;
+        unsorted.reserve(1000);
         collect(unsorted , root , 0 , 0);
         sort(unsorted.begin() , unsorted.end());
         vector<vector<int>> result;
