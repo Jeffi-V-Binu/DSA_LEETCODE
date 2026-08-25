@@ -10,35 +10,46 @@
  * };
  */
 class Solution {
-private:
-    void collect (vector<vector<int>>& unsorted , TreeNode* root , int row , int col){
-        if(!root) return;
-        vector<int> temp = {col , row ,root -> val};
-        unsorted.push_back(temp);
-        collect(unsorted , root -> left , row + 1 , col - 1);
-        collect(unsorted , root -> right , row + 1 , col + 1);
-    }
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        vector<vector<int>> unsorted;
-        unsorted.reserve(1000);
-        collect(unsorted , root , 0 , 0);
-        sort(unsorted.begin() , unsorted.end());
         vector<vector<int>> result;
-        vector<int> temp = {unsorted[0][2]};
-        int prevcol = unsorted[0][0];
-        int i = 1;
-        int n = unsorted.size();
-        while(i < n){
-            if(unsorted[i][0] != prevcol){
-                result.push_back(temp);
-                temp = {};
-                prevcol = unsorted[i][0];
+        if(!root) return result;
+        int minCol = 0;
+        int maxCol = 0;
+        unordered_map<int , vector<pair<int , int >>> interResult;
+        queue<pair<TreeNode*, pair<int , int>>> que;
+        que.push({root , {0 , 0 }});
+
+        while(!que.empty()){
+            auto it = que.front();
+            que.pop();
+
+            TreeNode* node = it.first;
+            int col = it.second.first;
+            int row = it.second. second;
+
+            minCol = min(minCol , col);
+            maxCol = max(maxCol , col);
+
+            interResult[col].push_back({row , node->val});
+
+            if(node -> left){
+                que.push({node -> left , {col - 1 , row + 1}});
             }
-            temp.push_back(unsorted[i][2]);
-            ++i;
+            if(node -> right){
+                que.push({node -> right , {col + 1 , row + 1}});
+            }
         }
-        result.push_back(temp);
+        for(int i = minCol ; i <= maxCol ; ++i){
+            if(interResult.find(i) == interResult.end()) continue;
+
+            sort(interResult[i].begin() , interResult[i].end());
+            vector<int> temp;
+            for(auto j: interResult[i]){
+                temp.push_back(j.second);
+            }
+            result.push_back(temp);
+        }
         return result;
     }
 };
