@@ -10,13 +10,10 @@
 class Solution {
 private:
     TreeNode* lcah(TreeNode* root ,TreeNode* p , TreeNode* q){
-        if(!root) return NULL;
-        if(root == p) return p;
-        if(root == q) return q;
-        TreeNode* l = lcah(root->left , p , q);
-        TreeNode* r = lcah(root->right, p , q);
-        if(l == NULL && r == NULL) return NULL;
-        if((l == p && r == q) || ( l == q && r == p)) return root;
+        if(root == p || root == q) return root;
+        TreeNode* l = root-> left ? lcah(root->left , p , q): NULL;
+        TreeNode* r = root-> right ? lcah(root->right, p , q): NULL;
+        if(l != NULL && r != NULL) return root;
         if(l != NULL) return l;
         return r;
     }
