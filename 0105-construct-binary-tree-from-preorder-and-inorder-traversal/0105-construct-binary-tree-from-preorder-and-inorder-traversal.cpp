@@ -12,26 +12,19 @@
 class Solution {
 private:
     int pos = 0;
-    unordered_map<int , int> inolookup;
-    TreeNode* assignroot(vector<int>& preorder ,int ins , int ine){
-        if(ins > ine) return NULL;
-        int rootval = preorder[pos++];
-        TreeNode* root = new TreeNode(rootval);
-        int rind = inolookup[rootval];
-        root -> left = assignroot(preorder , ins , rind - 1);
-        root -> right = assignroot(preorder , rind + 1 , ine);
+    int ind = 0;
+    TreeNode* assignroot(vector<int>& preorder ,vector<int>& inorder , int stop){
+        if(pos >= preorder.size() || inorder[ind] == stop) return NULL;
+        TreeNode* root = new TreeNode(preorder[pos++]);
+        root -> left = assignroot(preorder , inorder, root -> val);
+        ++ind;
+        root -> right = assignroot(preorder , inorder, stop);
         return root;
     }
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         pos = 0;
-        inolookup.clear();
-
-        int n = inorder.size();
-        for(int i = 0 ; i < n ; ++i){
-            inolookup[inorder[i]] = i;
-        }
-
-        return assignroot(preorder , 0 , n - 1);
+        ind = 0;
+        return assignroot(preorder , inorder , INT_MIN);
     }
 };
