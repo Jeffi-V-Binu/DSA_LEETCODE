@@ -12,10 +12,8 @@
 class Solution {
 private:
     unordered_map<int , vector<int>> adjlist;
-    unordered_map<int , bool> check;
     void converttogf(TreeNode* root , TreeNode* parent){
         if(!root) return;
-        check[root -> val ] = false;
         if(parent){
             adjlist[root-> val].push_back(parent->val);
             adjlist[parent -> val].push_back(root->val);
@@ -27,8 +25,9 @@ public:
     int amountOfTime(TreeNode* root, int start) {
         queue<int> Q;
         converttogf(root , NULL);
+        unordered_set<int> check;
         Q.push(start);
-        check[start] = true;
+        check.insert(start);
         int minutes = -1;
         while(!Q.empty()){
             int n = Q.size();
@@ -37,9 +36,9 @@ public:
                 int temp = Q.front();
                 Q.pop();
                 for(int c : adjlist[temp]){
-                    if(!check[c]){
+                    if(check.find(c) == check.end()){
                         Q.push(c);
-                        check[c] = true;
+                        check.insert(c);
                     }
                 }
             }
