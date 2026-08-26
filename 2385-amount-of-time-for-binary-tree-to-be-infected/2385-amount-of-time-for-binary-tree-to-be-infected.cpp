@@ -11,38 +11,22 @@
  */
 class Solution {
 private:
-    unordered_map<int , vector<int>> adjlist;
-    void converttogf(TreeNode* root , TreeNode* parent){
-        if(!root) return;
-        if(parent){
-            adjlist[root-> val].push_back(parent->val);
-            adjlist[parent -> val].push_back(root->val);
+    int maxval = 0;
+    int finddis(TreeNode* root ,int start){
+        if(!root) return 0;
+        int l = finddis(root -> left ,start);
+        int r = finddis(root -> right ,start);
+        if(root -> val == start){
+            maxval = max(l , r);
+            return -1;
         }
-        converttogf(root->left , root);
-        converttogf(root->right , root);
+        if(l >= 0 && r >= 0) return max(l , r) + 1;
+        maxval = max(maxval , (abs(l) + abs(r)));
+        return min(l , r) - 1;
     }
 public:
     int amountOfTime(TreeNode* root, int start) {
-        queue<int> Q;
-        converttogf(root , NULL);
-        unordered_set<int> check;
-        Q.push(start);
-        check.insert(start);
-        int minutes = -1;
-        while(!Q.empty()){
-            int n = Q.size();
-            ++minutes;
-            for(int i = 0 ; i < n ; ++i){
-                int temp = Q.front();
-                Q.pop();
-                for(int c : adjlist[temp]){
-                    if(check.find(c) == check.end()){
-                        Q.push(c);
-                        check.insert(c);
-                    }
-                }
-            }
-        }
-        return minutes;
+        finddis(root , start);
+        return maxval;
     }
 };
