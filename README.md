@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Greedy
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
