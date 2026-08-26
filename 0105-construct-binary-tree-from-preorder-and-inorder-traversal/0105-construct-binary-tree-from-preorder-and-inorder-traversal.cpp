@@ -12,29 +12,26 @@
 class Solution {
 private:
     int pos = 0;
-    void assignroot(TreeNode* root ,vector<int>& preorder , vector<int>& inorder , int ins , int ine , int& pos){
-        root -> val = preorder[pos];
-        int i;
-        for(i = ins ; i <= ine ; ++i){
-            if(inorder[i] == preorder[pos])break;
-        }
-        TreeNode* l = new TreeNode();
-        TreeNode* r = new TreeNode();
-        if(i > ins){
-            assignroot(l , preorder , inorder , ins , i - 1 , ++pos);
-            root-> left = l;
-        }
-        if(i < ine){
-            assignroot(r , preorder , inorder , i + 1 , ine , ++pos);
-            root -> right = r;
-        }
+    unordered_map<int , int> inolookup;
+    TreeNode* assignroot(vector<int>& preorder ,int ins , int ine){
+        if(ins > ine) return NULL;
+        int rootval = preorder[pos++];
+        TreeNode* root = new TreeNode(rootval);
+        int rind = inolookup[rootval];
+        root -> left = assignroot(preorder , ins , rind - 1);
+        root -> right = assignroot(preorder , rind + 1 , ine);
+        return root;
     }
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n = inorder.size();
-        TreeNode * dummy = new TreeNode();
         pos = 0;
-        assignroot(dummy , preorder , inorder , 0 , n - 1 , pos);
-        return dummy;
+        inolookup.clear();
+
+        int n = inorder.size();
+        for(int i = 0 ; i < n ; ++i){
+            inolookup[inorder[i]] = i;
+        }
+
+        return assignroot(preorder , 0 , n - 1);
     }
 };
