@@ -17,7 +17,7 @@ private:
         int l = finddis(root -> left ,start);
         int r = finddis(root -> right ,start);
         if(root -> val == start){
-            maxval = max(l , r);
+            maxval = max(maxval ,max(l , r));
             return -1;
         }
         if(l >= 0 && r >= 0) return max(l , r) + 1;
