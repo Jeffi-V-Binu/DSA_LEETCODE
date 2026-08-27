@@ -13,17 +13,27 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-        vector<TreeNode*> st;
-        TreeNode* temp = root;
-        while(temp||!st.empty()){
-            while(temp){
-                st.push_back(temp);
-                temp = temp -> left;
+        TreeNode* curr = root;
+        while(curr){
+            if(!curr -> left){
+                result.push_back(curr->val);
+                curr = curr -> right;
             }
-            temp = st.back();
-            st.pop_back();
-            result.push_back(temp -> val);
-            temp = temp -> right;
+            else{
+                TreeNode* prec = curr -> left;
+                while(prec-> right != nullptr && prec -> right != curr){
+                    prec = prec -> right;
+                }
+                if(prec -> right != curr){
+                    prec -> right = curr;
+                    curr = curr -> left;
+                }
+                else{
+                    result.push_back(curr->val);
+                    prec -> right = nullptr;
+                    curr = curr -> right;
+                }
+            }
         }
         return result;
     }
