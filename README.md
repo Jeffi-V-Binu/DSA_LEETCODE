@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [2865-beautiful-towers-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2865-beautiful-towers-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 ## Rolling Hash
 |  |
