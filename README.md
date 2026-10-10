@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0146-lru-cache) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0450-delete-node-in-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
