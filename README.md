@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1478-allocate-mailboxes](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1478-allocate-mailboxes) |
 ## Bit Manipulation
 |  |
@@ -515,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
