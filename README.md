@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2866-beautiful-towers-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1840-maximum-building-height](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1927-sum-game) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2866-beautiful-towers-ii) |
 ## Monotonic Stack
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2866-beautiful-towers-ii) |
 ## Breadth-First Search
@@ -436,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2818-apply-operations-to-maximize-score](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2818-apply-operations-to-maximize-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
