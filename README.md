@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0775-global-and-local-inversions](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0775-global-and-local-inversions) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
