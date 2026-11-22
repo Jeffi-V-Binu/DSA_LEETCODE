@@ -14,6 +14,7 @@ public:
             }
             else temp = 0;
             if(temp < 0) result += temp;
+            else break;
         }
 
         return result;
