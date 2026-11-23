@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0221-maximal-square) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
